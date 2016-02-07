@@ -1,0 +1,14 @@
+{
+  "name": "dcmetro",
+  "version": "0.0.1",
+  "description": "D.C. Metro API koop provider.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "jason.hettmansperger",
+  "license": "ISC",
+  "dependencies": {
+    "koop-provider": "^1.0.0"
+  }
+}
