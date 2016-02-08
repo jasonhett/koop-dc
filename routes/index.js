@@ -1,4 +1,4 @@
 module.exports = {
-  'get /bus/route/:routeID': 'index',
-  'get /bus/id/:busID': 'index'
+  'get /bus/route/:routeID': 'featureservice',
+  'get /bus/id/:busID': 'featureservice'
 }

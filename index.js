@@ -6,7 +6,8 @@ var dcmetro = provider({
   version: pkg.version,
   model: require('./model'),
   controller: require('./controller'),
-  routes: require('./routes')
+  routes: require('./routes'),
+  type: 'provider'
 })
 
 module.exports = dcmetro
