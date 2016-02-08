@@ -9,6 +9,8 @@
   "author": "jason.hettmansperger",
   "license": "ISC",
   "dependencies": {
-    "koop-provider": "^1.0.0"
+    "async": "^1.5.2",
+    "koop-provider": "^1.0.0",
+    "request": "^2.69.0"
   }
 }
